@@ -1,0 +1,13 @@
+.input.label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.search-input {
+    padding: 10px 10px;
+    width: 100%;
+    border: 2px solid #eaeaea;
+    border-radius: 2px;
+}
